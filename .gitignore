@@ -1,0 +1,5 @@
+app/logs
+app/cache
+coverage
+vendor
+web/bundles
